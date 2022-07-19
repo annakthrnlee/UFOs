@@ -7,7 +7,10 @@ The purpose of the project is to allow viewers the opportunity to discover infor
 ![download](https://user-images.githubusercontent.com/104043438/179637643-aa65e58a-0a7e-46fb-8a8f-a51e4dec4fb5.jpg)
 
 ### Results: 
-##### The Truth Is Out There
+### **The Truth Is Out There**
 Through the HTML webpage, users can access data using multiple filters to view information regarding UFO sightings. Type in any city, state, country, or shape and click **"filter table"** by doing so, specified data will appear that matches your criteria. Give it a try!
 
 <img width="2240" alt="Screen Shot 2022-07-18 at 6 16 18 PM" src="https://user-images.githubusercontent.com/104043438/179638258-c85d1d16-dc9e-40d6-b198-892bce08c2bd.png">
+
+### Heres an example of random criteria you could enter! The possibilities are endless.
+<img width="558" alt="Screen Shot 2022-07-18 at 6 22 43 PM" src="https://user-images.githubusercontent.com/104043438/179638402-122ac7d8-8f1d-43f3-97f6-85115446b383.png">
