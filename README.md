@@ -8,4 +8,6 @@ The purpose of the project is to allow viewers the opportunity to discover infor
 
 ### Results: 
 ##### The Truth Is Out There
-Using the HTML webpage, users can access data using multiple filters to view information regarding UFO sightings. Simply, type in any city, state, country, or shape and click **"filter table"** by doing so, specified data will appear that matches your criteria. Give it a try!
+Through the HTML webpage, users can access data using multiple filters to view information regarding UFO sightings. Type in any city, state, country, or shape and click **"filter table"** by doing so, specified data will appear that matches your criteria. Give it a try!
+
+<img width="2240" alt="Screen Shot 2022-07-18 at 6 16 18 PM" src="https://user-images.githubusercontent.com/104043438/179638258-c85d1d16-dc9e-40d6-b198-892bce08c2bd.png">
