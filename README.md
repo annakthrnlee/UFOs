@@ -7,4 +7,4 @@ Created a table to organize UFO data that is stored as a JavaScript array. The t
 
 ### Results: 
 ##### The Truth Is Out There
-Using the HTML webpage, users can access data using multiple filters to view information regarding UFO sightings. Simply, type in any city, state, country, or shape and click ######## "filter table" ######## by doing so, data will appear that matches your criteria. Give it a try!
+Using the HTML webpage, users can access data using multiple filters to view information regarding UFO sightings. Simply, type in any city, state, country, or shape and click **"filter table"** by doing so, specified data will appear that matches your criteria. Give it a try!
